@@ -1,11 +1,1 @@
-/* layout default */
-* {
-    box-sizing: border-box;
-	margin: 0px;
-	Padding: 0px;
-}
 
-/* Header */
-.navbar {
-	background-color: rgb(71, 71, 71);
-}
